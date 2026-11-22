@@ -1,8 +1,8 @@
 ﻿__pycache__/
 *.py[cod]
-.ipynb_checkpoints/
 .venv/
 venv/
-data/*.jsonl
-*.parquet
+.env
 .DS_Store
+lake/
+checkpoints/
